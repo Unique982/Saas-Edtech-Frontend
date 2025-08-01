@@ -71,7 +71,7 @@ If this project meets your requirements and you want to discuss or use it:
 📱 Call Me: +977-9864728224
 📧 Email: uniqueneupane153@gmail.com
 🌐 Portfolio/Website: www.khemrajneupane.com.np
-🔗 GitHub: Saas-EdTech-Frontend Repository
+🔗 GitHub: https://github.com/Unique982/Saas-Edtech-Frontend.git
 Feel free to reach out for collaboration, customization, or deployment support.
 ```
 ---
